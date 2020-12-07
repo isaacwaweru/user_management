@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://localhost:27017/system-users'
+    url: 'mongodb://192.241.133.132:40/system-users'
 }
